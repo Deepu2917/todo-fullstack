@@ -2,7 +2,8 @@ const form = document.getElementById("todo-form");
 const input = document.getElementById("todo-input");
 const list = document.getElementById("todo-list");
 
-const API = "https://realtime-editor-backend-055w.onrender.com/todos";
+const API = "https://todo-fullstack-1-lf9w.onrender.com/todos";
+
 
 // Load existing todos
 async function loadTodos() {
