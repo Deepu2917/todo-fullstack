@@ -15,6 +15,8 @@ A simple full-stack To-Do List application built with **HTML, CSS, JavaScript, N
 - Minimal, responsive UI
 
 ##Output
+
+
 <img width="668" height="469" alt="Screenshot 2025-07-20 204244" src="https://github.com/user-attachments/assets/5db6836b-6c7a-4db8-b6ef-b008fa994cfc" />
 utput
 
